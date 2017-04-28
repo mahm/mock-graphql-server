@@ -1,0 +1,5 @@
+{
+  "name": "mock-graphql-server",
+  "private": true,
+  "dependencies": {}
+}
